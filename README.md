@@ -2,6 +2,8 @@
 
 A mini app designed to automatically generate documentation from Go code. This app uses ast to crawl through a file system path generating a knowledge map of structs and then outputs to stdout including information about embedded / linked structs
 
+**NOTE** This project was very low priority so, after initial implementation, AI was used to program most of the functionality with little attention paid to quality. I apologize for any odd details but, welcome improvements!
+
 ## Options
 
 Struct to Docs has some flags available to control and limit output
